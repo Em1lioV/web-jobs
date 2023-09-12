@@ -26,17 +26,28 @@ export default {
 </script>
 
 <style>
+
+   
+    /* Cambia el color de fondo y texto en hover */
+    .tarjeta:hover {
+        background-color: var(--color5);
+        color: var(--color1);
+    }
+
     .jobs h2{
-        background-color: #f4f4f4;
+        border: 1px solid #000;
         padding: 20px;
         border-radius: 10px;
         margin: 10px auto;
         max-width: 600px;
         cursor: pointer;
-        color: #2c3e50;
+        background-color: var(--color1);
+        color: var(--color5);
     }
+
     .jobs h2:hover{
-        background-color: #ddd;
+        background-color: var(--color3);
+        color: var(--color1);
     }
     .jobs a{
         text-decoration: none;
