@@ -3,6 +3,7 @@ import HomeView from '../views/HomeView.vue'
 import AboutView from '../views/AboutView.vue'
 
 import JobsView from '../views/JobsView.vue'
+import JobsDetailsView from '../views/JobsDetailsView.vue'
 
 const routes = [
   {
@@ -19,6 +20,16 @@ const routes = [
     path:'/jobs',
     name:'jobs',
     component: JobsView
+  },
+  {
+    path:'/jobs/:id',
+    name:'JobsDetails',
+    component:JobsDetailsView
+  }
+  ,
+  {
+    path:'/all-jobs',
+    redirect:'/jobs',
   }
 ]
 
