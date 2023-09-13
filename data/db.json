@@ -1,0 +1,40 @@
+{
+    "jobs": [
+      {
+        "id": 1,
+        "title": "UX Designer",
+        "detail": "Como UX Designer, serás responsable de diseñar experiencias de usuario excepcionales para nuestros productos. Deberás realizar investigaciones de usuarios, crear wireframes y prototipos, y colaborar estrechamente con los equipos de desarrollo para garantizar una experiencia de usuario de alta calidad."
+      },
+      {
+        "id": 2,
+        "title": "Frontend Developer",
+        "detail": "Como Frontend Developer, serás parte de nuestro equipo de desarrollo web y trabajarás en la creación de interfaces de usuario interactivas y atractivas. Deberás tener experiencia en HTML, CSS y JavaScript, y colaborar con diseñadores para implementar sus diseños de manera efectiva."
+      },
+      {
+        "id": 3,
+        "title": "Backend Developer",
+        "detail": "Como Backend Developer, serás responsable de desarrollar y mantener la lógica de negocio y la funcionalidad detrás de nuestras aplicaciones. Deberás tener experiencia en lenguajes de programación como Python o Node.js, y trabajar en estrecha colaboración con el equipo de frontend para garantizar un rendimiento sólido y una experiencia de usuario fluida."
+      },
+      {
+        "id": 4,
+        "title": "Data Scientist",
+        "detail": "Como Data Scientist, tu rol será analizar grandes conjuntos de datos para extraer información valiosa y tomar decisiones basadas en datos. Deberás tener experiencia en programación, estadísticas y aprendizaje automático, y colaborar con otros equipos para impulsar la toma de decisiones basada en datos."
+      },
+      {
+        "id": 5,
+        "title": "Product Manager",
+        "detail": "Como Product Manager, liderarás la estrategia y el desarrollo de productos en nuestra empresa. Serás responsable de definir la visión del producto, establecer prioridades y coordinar con equipos de diseño y desarrollo para llevar los productos al mercado de manera exitosa."
+      },
+      {
+        "id": 6,
+        "title": "Mobile App Developer",
+        "detail": "Como Mobile App Developer, trabajarás en el desarrollo de aplicaciones móviles para iOS y Android. Deberás tener experiencia en lenguajes como Swift o Kotlin y asegurarte de que las aplicaciones sean altamente funcionales y fáciles de usar en dispositivos móviles."
+      },
+      {
+        "id": 7,
+        "title": "DevOps Engineer",
+        "detail": "Como DevOps Engineer, serás responsable de automatizar y mejorar nuestros procesos de desarrollo y despliegue. Deberás trabajar en estrecha colaboración con los equipos de desarrollo para garantizar una infraestructura estable y confiable."
+      }
+    ]
+  }
+  
